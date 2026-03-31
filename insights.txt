@@ -1,0 +1,28 @@
+
+Churn drivers:
+- Low satisfaction score strongly impacts churn
+- Session time less than 5 minutes increases churn risk
+- High inactivity days (>7 days) leads to churn
+- Poor customer support experience increases churn
+- High subscription cost compared to value leads to churn
+
+User behavior:
+- Users logging in less than 2 times per week tend to churn
+- Users who don’t explore multiple features are likely to churn
+- Drop in engagement over time is a strong churn signal
+
+Recommendations:
+- Improve onboarding experience
+- Send personalized notifications to inactive users
+- Provide discounts for high-risk customers
+- Enhance customer support response time
+- Introduce loyalty programs
+
+Engagement metrics:
+- Average session duration
+- Number of logins per week
+- Feature usage frequency
+
+Customer feedback:
+- Negative reviews correlate with high churn
+- Low NPS score indicates dissatisfaction
